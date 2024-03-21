@@ -5,6 +5,7 @@ import sys
 
 class CapsLockTogglerGUI:
     def __init__(self, root):
+        #tkinter window
         self.root = root
         self.root.title("Caps Lock Toggler")
 
